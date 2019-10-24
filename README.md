@@ -1,7 +1,4 @@
+GoBarber
 
-Backend of an aesthetic company
-
-Backend feito para aprendizado com ajuda do curso do BOOTCAMP da rocketseat.com.br
-
-
+Backend em NodeJS de um sofware para fornecedores e clientes de uma empresa de estética. 
 
