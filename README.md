@@ -1,5 +1,5 @@
 GoBarber
 
-Backend em NodeJS de um sofware para fornecedores e clientes de uma empresa de estética. 
+Backend em NodeJS de um sofware para prestadores de serviços de beleza e clientes.
 
 Projeto desenvolvido junto ao curso BOOTCAMP da rocketseat.
